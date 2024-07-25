@@ -12,7 +12,8 @@ The paper [eLife 2024](https://elifesciences.org/reviewed-preprints/92080) intro
 
 ## Reproducing the main results figures in the paper
 
-Code to reproduce figures 2-4 are included in the subfolder analysis. In MATLAB, once you have included the lib folder, you should be able to just click run on each of the matlab .m files for each figure. More details are in the code itself.
+Code to reproduce figures 2-4 are included in the subfolder 'analysis'. In MATLAB, once you have included the 'lib' folder, you should be able to just click run on each of the matlab .m files for each figure. More details are in the code itself.
+Note that the code currently assumes that the 'data' folder is on the same level as the 'lib' and 'analysis' folders. Otherwise, please change the code, or move your folder.
 
 ## Where to obtain the original data on the primate species
 
