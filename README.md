@@ -1,6 +1,6 @@
 # About this repo
 This repo contains the analysis code underpinning our paper "Neuro-evolutionary evidence for a universal fractal primate brain shape" [eLife 2024](https://elifesciences.org/reviewed-preprints/92080). 
-It relies on a data folder to run, which be found on zenodo: [DOI:10.5281/zenodo.12820611](http://).
+It relies on a data folder to run, which be found on zenodo: [DOI:10.5281/zenodo.12820611](https://zenodo.org/records/12820611).
 
 The data folder contains files that are outputs from our multiscale pipeline in the [Cortical Folding Analysis Toolbox](https://github.com/cnnp-lab/CorticalFoldingAnalysisTools) so anyone can easily reproduce the main results in the paper without having obtain the raw data and re-run the multiscale pipeline. We made sure not to replicate any data from other sources in the zenodo data package, but restrict it to only the multiscale outputs where possible.
 
